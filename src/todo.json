@@ -1,0 +1,20 @@
+{
+    "tarea":[{
+        "titulo": "tarea 1",
+        "responsable": "Ronald",
+        "descripcion": "aprender",
+        "Prioridad": "baja"
+    },
+    {
+        "titulo": "tarea 2",
+        "responsable": "Alexis",
+        "descripcion": "ejecutar",
+        "Prioridad": "baja"
+    },
+    {
+        "titulo": "tarea 3",
+        "responsable": "otro",
+        "descripcion": "vender",
+        "Prioridad": "baja"
+    }]
+}
